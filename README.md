@@ -1,7 +1,7 @@
 # 📚 In the Footsteps of Darwin
 
 ## 📌 Overview
-This project analyses the board game "In the Footsteps of Darwin" using information from the based game instructions. The goal is to explore genetic algorithms of tile selections to determine the theoretical maximum score of a player in a single game. Interactive charts and visualisations are provided to support decision-making.
+This project analyses the board game "In the Footsteps of Darwin" using information from the base game instructions. The goal is to explore genetic algorithms of tile selection to determine the theoretical maximum score of a player in a single game. Interactive charts and visualisations are provided to support decision-making.
 
 
 ## 🗂️ Project Structure
