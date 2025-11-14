@@ -5,9 +5,7 @@ This project analyses the board game "In the Footsteps of Darwin" using informat
 
 
 ## 🗂️ Project Structure
-├── data/       # Raw and processed data (or links to sources)  
 ├── notebooks/  # Jupyter notebooks for exploration and modelling  
-├── src/        # Python scripts  
 └── README.md   # Project documentation  
 
 
